@@ -1,2 +1,2 @@
-for  item in "Python":
-    print(item)
+for  item1 in "Python":
+    print(item1)
